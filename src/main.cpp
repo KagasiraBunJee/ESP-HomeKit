@@ -6,8 +6,8 @@
 #include "mdns.h"
 #include "hap/esp32_hk_accessory.hpp"
 
-const char* ssid     = "ekreative";
-const char* password = "yabloka346";
+const char* ssid     = "ssid";
+const char* password = "password";
 char hostString[16] = {0};
 #define PORT 14000
 #define NAME "Franks Light Bulb"
